@@ -1,2 +1,3 @@
 # cobol-check-automation
-Automating COBOL testing with cobolcheck and GitHub Actions (based on OMP Cobol Course #4)
+Automating COBOL testing with cobolcheck and GitHub Actions (based on OMP Cobol Course #4).
+Learning some Cobol and more to come...
